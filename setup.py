@@ -43,7 +43,7 @@ if __name__ == '__main__':
                             'greenlet==0.4.10',
                             'hyperloglog==0.0.9',
                             'lithoxyl==0.3.0',
-                            'psutil==2.2.1',
+                            'psutil==5.6.6',
                             'pyjks==0.5.0',
                             'pyOpenSSL==0.14',
                             'pytest==2.6.4',
