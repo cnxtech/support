@@ -45,7 +45,7 @@ if __name__ == '__main__':
                             'lithoxyl==0.3.0',
                             'psutil==2.2.1',
                             'pyjks==0.5.0',
-                            'pyOpenSSL==0.14',
+                            'pyOpenSSL==17.5.0',
                             'pytest==2.6.4',
                             'sampro==0.1',
                             'ufork==0.0.1'],
