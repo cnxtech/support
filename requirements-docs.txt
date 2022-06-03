@@ -9,7 +9,7 @@ Jinja2==2.7.3
 livereload==2.3.2
 MarkupSafe==0.23
 pathtools==0.1.2
-Pygments==2.0.2
+Pygments==2.7.4
 pytz==2015.2
 PyYAML==3.11
 snowballstemmer==1.2.0
